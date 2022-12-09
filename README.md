@@ -10,5 +10,5 @@ The notes contain the modules outlined below:
 |5|Play with Sets and Probability|<li>What’s a Set? </li><li>Probability</li>
 |6|Draw Geometric Shapes and Fractals|<li>Geometric Shapes with Matplotlib’s Patches</li><li>Draw Fractals</li>
 |7|Solve Calculus Problems|<li>What Is a Function?</li><li>Assumptions in SymPy</li><li>The Limit of Functions</li><li>The Derivative of Functions</li><li>Higher-Order Derivatives and Finding the Maxima and Minima</li><li>The Global Maximum Using Gradient Ascent</li><li>The Integrals of Functions </li><li>Probability Density Functions</li>
-|8|Programming Challenges|^_^|
+|8|Programming Challenges|$$|
 
